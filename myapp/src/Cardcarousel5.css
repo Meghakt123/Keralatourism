@@ -1,0 +1,59 @@
+.head6{
+    padding-bottom: 8%;
+    color:rgb(23, 23, 82);
+      margin-top:8%;
+      font-family:Arial, Helvetica, sans-serif;
+      text-align: center;
+      background-color:#DDE6ED;
+      padding-top: 8%;
+      padding-bottom:8%;
+      
+      
+}
+
+
+.picto{
+    width:320px;
+    border-radius: 0%;
+    height: 220px;
+    
+    
+
+
+}
+
+.fifth{
+    /* margin-left:10%;
+    margin-right:10%; */
+    padding-left: 3%;
+    padding-right: 3%;
+    border-radius: 0%;
+    
+    
+}
+
+
+ .pack{
+
+   width:320px;
+   text-align: center;
+   background-color: white;
+   font-size: medium;
+   font-family: Arial, Helvetica, sans-serif;
+   position: fixed;
+   
+  
+  }
+
+  .bu{
+    margin-top:7%;
+    margin-left:4%;
+    padding-left: 20px;
+    background-color:#0e3a74;
+    border-radius: 0%;
+    
+  }
+
+  .left{
+    margin-top: 7%;
+  }

@@ -1,0 +1,35 @@
+
+
+#move{
+    
+    /* background-color: transparent; */
+    z-index: 100;
+    position: fixed;
+    width: 100%;
+
+}
+.emblem{
+    width: 200px;
+    height:40px;
+    
+}
+.text{
+    font-size: 13px;
+    font-weight: 500;
+    margin-left:60px ;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.one{
+    background-color:#0e3a74;
+    padding-top: 4%;
+}
+
+/* a{
+    color: white;
+    text-decoration: none;
+} */
+
+a{
+    color: white;
+    text-decoration: none;
+}
